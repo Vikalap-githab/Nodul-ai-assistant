@@ -28,4 +28,4 @@
 Nodul · Google Workspace (Sheets, Gmail, Forms, Apps Script) · LLM · JavaScript
 
 ## Автор
-Виктория Лапшина · портфолио: VikaLap.tilda.ws
+Виктория Лапшина · портфолио: vikalap-ai.ru
